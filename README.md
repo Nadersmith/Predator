@@ -22,7 +22,8 @@ Built for professionals and enthusiasts using **Kali Linux / NetHunter**.
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/predator.git
+git clone (https://github.com/Nadersmith/Predator.git)
+
 
 # Navigate to the directory
 cd predator
